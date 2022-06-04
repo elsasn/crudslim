@@ -1,2 +1,2 @@
 # crudslim
-CRUD API Menggunakan Slim Framework
+A Simple CRUD API using Slim Framework. 
